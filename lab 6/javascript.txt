@@ -1,0 +1,20 @@
+function getLogin(username)
+{
+ $.ajax({
+ url: 'http://localhost:49231/Service1.svc/data'+username,
+  dataType: 'json',
+  data: 'url',
+  success: function(data) {
+    var  userid,password;
+    userid = data.userid;
+      password= data.password;
+      $('p.login').html("Welcome " + userid + ",  Your password is " + password); 
+  }
+});
+}
+function getDetails() {
+   
+    var username = document.getElementById('username').value;
+      getLogin(username);
+}    
+   

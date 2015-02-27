@@ -1,0 +1,29 @@
+ <body>
+  <div data-role="page" id="newpage">
+    <h3>Lab Tutorial</h3>
+    <div class="bs-example">
+    <div class="panel panel-default">
+        <div class="panel-heading">Login Page</div>
+		<div class="panel-body">
+			<p>Please give username & password and click submit !</p>
+		</div>
+      <div style="width:30%">
+            <p>User Name:    <input id="username"  class="form-control"/>
+           <p id="write"></p></p> 
+            <p>Password:  <input class="inputstyle" /></p> 
+        <p><a class="btn btn-default" href="#ButtonEventPage" data-role="button" onclick="getDetails()">Sign-in </a>
+        </p>
+          </div>
+             </div>
+     </div>
+  </div>
+<div data-role="page"  id="ButtonEventPage">
+    <div data-role="header">
+       <a class="btn btn-default" href="#newpage" data-role="button">Home </a>
+        
+        <h2>Home page</h2>
+          </div>
+  <h4> <p class="login"></p>
+    </h4>
+      </div>
+      
