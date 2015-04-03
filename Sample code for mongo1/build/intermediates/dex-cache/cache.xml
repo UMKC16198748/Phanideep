@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PHANIDEEP\Desktop\ASE\Sample code for mongo1\app\libs\mongo-2.10.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09e2c2835b0126a48183ed42129e53b6eb6e259b">
+        <dex dex="C:\Users\PHANIDEEP\Desktop\ASE\Sample code for mongo1\app\build\intermediates\pre-dexed\debug\mongo-2.10.1-b7cd639605785abfffaaf824adafbc5f53d20459.jar" />
+    </item>
+    <item
+        jar="C:\Users\PHANIDEEP\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\PHANIDEEP\Desktop\ASE\Sample code for mongo1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ad0d23c982df69cbb6c2a6355e16995614147e1e.jar" />
+    </item>
+
+</items>

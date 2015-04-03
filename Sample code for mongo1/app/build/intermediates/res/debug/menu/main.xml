@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <!-- My Contacts -->
+
+
+</menu><!-- From: file:/C:/Users/PHANIDEEP/Desktop/ASE/Sample%20code%20for%20mongo1/app/src/main/res/menu/main.xml -->
